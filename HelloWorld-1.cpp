@@ -1,3 +1,5 @@
+Angelo Reyes
+hi3525@wayne.edu
 // Simple C++ program to display "Hello World" 
 // Header file for input output functions 
 #include<iostream>  
